@@ -8,7 +8,7 @@ eureka:
       
 foo: baz
 
-jdbcUrl: "jdbc:mysql://localhost/mysql?useSSL=falsedb&useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC"
+jdbcUrl: "jdbc:mysql://localhost/mysql?useSSL=false&useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC"
 username: root
 password: password
 
