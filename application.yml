@@ -8,6 +8,10 @@ eureka:
       
 foo: baz
 
+jdbcUrl: "jdbc:mysql://localhost/mysql?useSSL=false"
+username: root
+password: password
+
 ---
 spring:
   profiles: cloud
