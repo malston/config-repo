@@ -7,11 +7,11 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
       
 foo: baz
+secret: {cipher}AQAIRc+kXqM01FSamFOtLIKmOMMvYxU4xK569NgtF1IBVH2Q5LY2/G4ZD+loC6PUh6V69E0g3ytnCJtfdwNO2ODTL7vbepOkm8NbEt0P+0i++geR2YPx4yPNrNQ5YAQOFT2JY3z2k3TGc7GKP7RI3e28XK9JzhE0dQ6gf+1Iy9gkXvKMz2PcjgE9EezhbDT5nYGLH4yZ9+Mygxv2Pc7ZTyddM6yUb4jYj9QSZwmQpA2Zd6ogHE3HWXlQP0lAUA3+cUfJzHjpJV7ePn8u5vzXCfgnyf/efrj61xhSW3w/+0ukXsNSlh50RG1GbGox61x2XDlZkDNMt+FEJTVsJuE6jWBketWG9KFV9jEv+B20ydKnzryXEhm4N9DzRXtIV7TecmI=
 
 jdbcUrl: "jdbc:mysql://localhost/mysql?useSSL=false&useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC"
 username: root
 password: password
-secret: {cipher}AQAIRc+kXqM01FSamFOtLIKmOMMvYxU4xK569NgtF1IBVH2Q5LY2/G4ZD+loC6PUh6V69E0g3ytnCJtfdwNO2ODTL7vbepOkm8NbEt0P+0i++geR2YPx4yPNrNQ5YAQOFT2JY3z2k3TGc7GKP7RI3e28XK9JzhE0dQ6gf+1Iy9gkXvKMz2PcjgE9EezhbDT5nYGLH4yZ9+Mygxv2Pc7ZTyddM6yUb4jYj9QSZwmQpA2Zd6ogHE3HWXlQP0lAUA3+cUfJzHjpJV7ePn8u5vzXCfgnyf/efrj61xhSW3w/+0ukXsNSlh50RG1GbGox61x2XDlZkDNMt+FEJTVsJuE6jWBketWG9KFV9jEv+B20ydKnzryXEhm4N9DzRXtIV7TecmI=
 
 ---
 spring:
